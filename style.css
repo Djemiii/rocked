@@ -1,0 +1,201 @@
+body {
+  background-color: #fff;
+  font-size: 18px;
+  font-weight: 400;
+  width: 100%;
+  margin: auto;
+  height: auto;
+  color: #434343;
+}
+
+img {
+  max-width: 100%;
+}
+
+select {
+  color: #33CC00;
+}
+
+
+.line {
+  background-color: #33CC00;
+  height: 2px;
+  width: 88px;
+}
+
+.btn-outline-success {
+  color: #33CC00;
+  border: solid 1.5px #33CC00;
+  font-weight: bold;
+}
+
+.nav.link.active {
+  size: 16px;
+}
+
+.heading {
+  background-image: url('images/waveElements.png');
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center;
+
+}
+
+.heading h1 {
+  font-weight: bold;
+  font-size: 68px;
+}
+
+h1,
+h2,
+h3 {
+  font-weight: bold;
+}
+
+h6 {
+  padding-top: 40px;
+}
+
+#essai {
+  background-image: url('images/background.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.section02 {
+  background-image: url('images/background\ \(1\).png');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.newsletter {
+
+
+  background-image: url('images/Mask\ Group.png');
+  background-position: right;
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+footer a {
+  text-decoration: none;
+  color: #434343;
+}
+
+footer li {
+  margin-top: 10px;
+}
+
+/* about */
+
+.aboutsection01,
+.blogsection01,
+.testimonialssection01 {
+  padding-top: 1rem;
+}
+
+.aboutsection02 p {
+  font-size: 20px;
+}
+
+
+
+.aboutsection04 .cont {
+  background-image: url('images/Mask\ Group\ \(3\).png');
+  background-position: right;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-color: #33CC00;
+  color: #fff;
+}
+
+
+
+/* team */
+.teamsection02 .card {
+  border: none;
+
+}
+
+.teamsection03 .cont {
+  background-image: url('images/Mask\ Group\ \(3\).png');
+  background-position: right;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-color: #33CC00;
+  color: #fff;
+}
+
+/* testimonials */
+
+.testimonialssection02 .cont {
+  background-image: url('images/overlay.png');
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: #fff;
+}
+
+.testimonialssection04 .cont {
+  background-image: url('images/Mask\ Group\ \(3\).png');
+  background-position: top right;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-color: #33CC00;
+  color: #fff;
+}
+
+
+/* blog */
+.blogsection04 .cont {
+  background-image: url('images/Mask\ Group\ \(3\).png');
+  background-position: top right;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-color: #33CC00;
+  color: #fff;
+}
+
+.blogsection03 a {
+  color: rgba(51, 204, 0, 1);
+  text-decoration-line: none;
+}
+.blogsection01.nav-link.active {
+  color: #33CC00;
+
+
+}
+.blogsection01.nav-link:hover {
+  color: #242623;
+  border-bottom-color: #33CC00;
+  font-weight: 800;
+  width: 120px;
+
+}
+
+.blogsection01 .nav-link {
+  color: #242623;
+  font-size: 26px;
+  font-weight: 600;
+}
+
+
+/* contact */
+.contactsection01{
+  background-image: url('images/mapBackground.png');
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-color: #fff;
+ 
+ 
+
+}
+.actsection02 .cont {
+  background-image: url('images/Mask\ Group\ \(3\).png');
+  background-position:  right;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-color: #33CC00;
+  color: #fff;
+}
